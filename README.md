@@ -1,8 +1,8 @@
-# Hassan Tariq Official | Website Developer | Designer
+# Hi there, I'm Hassan Tariq 
 
-## Welcome to Hassan Tariq Official Profile!
+## Website Developer | Designer!
 
-I’m Hassan Tariq, a professional dedicated Front End Website Developer and Website Designer with a passion for creating intuitive and visually appealing responsive top-notch and user friendly websites. Specializing in responsive website development, custom website solutions, and WordPress website development, I blend technical expertise with a strong design aesthetic to deliver seamless user experiences. My focus is on crafting high-quality websites that meet your needs and exceed expectations.
+Welcome to Hassan Tariq Official profile, a professional dedicated Front End Website Developer and Website Designer with a passion for creating intuitive and visually appealing responsive top-notch and user friendly websites. Specializing in responsive website development, custom website solutions, and WordPress website development, I blend technical expertise with a strong design aesthetic to deliver seamless user experiences. My focus is on crafting high-quality websites that meet your needs and exceed expectations.
 
 ### About Me
 
@@ -12,7 +12,8 @@ As a Front-End Developer, I focus on creating responsive and dynamic user interf
 
 #### Frontend Development
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Libraries & Frameworks:** React.js, Tailwind CSS, Bootstrap5, jQuery
+- **Libraries & Frameworks:** Bootstrap5, jQuery, React.js, Next.Js, Tailwind CSS, Material UI, Chakra UI  
+- **CMS & Plugins:** Wordpress, Elementor, DiviTheme
 - **Tools:** Visual Studio, Visual Studio Code and other IDEs
 - **Graphic Design:** Adobe Photoshop, Canva 
 - **Moreover:** C, C++, PHP, SQL, MySQL
