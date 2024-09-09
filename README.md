@@ -1,12 +1,12 @@
-# Hassan Tariq - Front End Developer & Designer
+# Hassan Tariq Official | Website Developer | Designer
 
 ## Welcome to Hassan Tariq Official Profile!
 
-I'm Hassan Tariq, a dedicated and passionate Front End Developer and Designer with a passion for creating intuitive and visually appealing web applications. With expertise in the React JS, customized development, I blend technical skills with a strong design aesthetic to deliver seamless user experiences.
+I’m Hassan Tariq, a professional dedicated Front End Website Developer and Website Designer with a passion for creating intuitive and visually appealing responsive top-notch and user friendly websites. Specializing in responsive website development, custom website solutions, and WordPress website development, I blend technical expertise with a strong design aesthetic to deliver seamless user experiences. My focus is on crafting high-quality websites that meet your needs and exceed expectations.
 
 ### About Me
 
-As a Front End Developer, I specialize in crafting responsive and dynamic user interfaces using the latest web technologies. My design skills ensure that every project not only functions flawlessly but also looks exceptional. I am committed to continuous learning and staying updated with industry trends to deliver cutting-edge solutions.
+As a Front-End Developer, I focus on creating responsive and dynamic user interfaces that leverage the latest web technologies. My design expertise ensures that every project not only performs seamlessly but also boasts a visually stunning appearance. I am dedicated to continuous learning and staying abreast of industry trends to provide innovative and cutting-edge solutions. Explore my repositories to see how I bring both functionality and exceptional design to life.
 
 ### Skills and Technologies
 
@@ -21,7 +21,6 @@ As a Front End Developer, I specialize in crafting responsive and dynamic user i
 - **Git & GitHub**
 
 ### Design Philosophy
-
 I believe that great design is not just about aesthetics but also about usability and accessibility. My goal is to create web applications that are easy to use, accessible to everyone, and visually compelling.
 
 ### Connect with Me
@@ -40,4 +39,4 @@ Beyond coding and designing, I enjoy staying ahead of the curve by exploring the
 
 ---
 
-⭐️ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+⭐️ Thank you for visiting my GitHub profile! Feel free to explore my repositories and 🌏 Connect with me at my professional portfolio website ➡️ https://hassantariqofficial.com
